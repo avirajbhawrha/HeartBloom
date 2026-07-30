@@ -41,7 +41,7 @@ Rainbow-Heart-Animation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Rainbow-Heart-Animation.git
+git clone https://(https://github.com/avirajbhawrha/HeartBloom)
 ```
 
 ### 2. Navigate to the Project Folder
