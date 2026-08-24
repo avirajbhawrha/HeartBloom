@@ -69,7 +69,7 @@ The program:
 5. Adds small star-like patterns at each point.
 6. Displays the completed rainbow heart.
 
----
+--- 
 
 ## ❤️ Heart Equation
 
