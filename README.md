@@ -96,6 +96,7 @@ The program produces a colorful heart with rainbow lines and sparkling star effe
 ## 📦 Requirements
 
 - Python 3.x
+- 
 
 No external libraries are required.
 
