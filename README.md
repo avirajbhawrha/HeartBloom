@@ -6,7 +6,7 @@ A simple and colorful heart animation created using Python's Turtle Graphics lib
 
 ---
 
-## 📌 Features
+## 📌  Features
 
 - ❤️ Draws a beautiful heart using mathematical equations.
 - 🌈 Random rainbow colors for every line.
