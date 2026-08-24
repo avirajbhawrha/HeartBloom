@@ -36,7 +36,7 @@ Rainbow-Heart-Animation/
 
 ---
 
-## 🚀 How to Run
+## 🚀  How to Run
 
 ### 1. Clone the Repository
 
