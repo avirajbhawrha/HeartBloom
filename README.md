@@ -58,7 +58,7 @@ python heart_animation.py
 
 ---
 
-## 📖 How It Works
+## 📖  How It Works
 
 The program:
 
